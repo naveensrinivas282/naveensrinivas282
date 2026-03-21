@@ -1,6 +1,6 @@
 baseURL = 'https://minimal-black-demo.netlify.app'
 languageCode = 'en-us'
-title = 'Minimal Black Theme'
+title = 'Naveen Srinivas'
 theme = "minimal-black"
 
 # Enable search index generation and web app manifest
@@ -24,10 +24,10 @@ theme = "minimal-black"
   appleTouchIcon = "apple-touch-icon.png"
 
   # Logo (optional)
-  logo = "images/logo.png"
+  logo = "images/logo.jpg"
 
   # Project and blog intro text
-  projectsIntro = "Selected projects to display list." # Can be empty
+  projectsIntro = "" # Can be empty
   blogIntro = "" # Can be empty
 
   # Web App Manifest Configuration (PWA support)
@@ -116,7 +116,7 @@ theme = "minimal-black"
   [params.about.alt]
     # Stats displayed in the profile card sidebar
     [[params.about.alt.stats]]
-      value = "0"
+      value = "3"
       label = "Years Coding"
 
     [[params.about.alt.stats]]
@@ -129,16 +129,12 @@ theme = "minimal-black"
 
     # Skills/Tech Stack badges with icons
     [[params.about.alt.skills]]
-      label = "JavaScript"
-      icon = "devicon-javascript-plain"
+      label = "GoLang"
+      icon = "devicon-go-original-wordmark"
 
     [[params.about.alt.skills]]
       label = "Python"
       icon = "devicon-python-plain"
-
-    [[params.about.alt.skills]]
-      label = "React"
-      icon = "devicon-react-original"
 
     [[params.about.alt.skills]]
       label = "Docker"
@@ -152,13 +148,17 @@ theme = "minimal-black"
       label = "AWS"
       icon = "devicon-amazonwebservices-plain"
 
+    [[params.about.alt.skills]]
+      label = "Azure"
+      icon = "devicon-azure-plain"
+
   # Hero Section Configuration
   [params.hero]
     badge = "Software Engineer"
     title = "Hi, I'm Naveen"
     role = "Backend and SRE Engineer"
     summary = "You can write your summary to be displayed here."
-    # avatar = "images/avatar.jpg"  # Optional: 400x400px recommended
+    avatar = "images/Naveen.png"  # Optional: 400x400px recommended
     location = "India"
     focus = "Currently focused on Backend Development"
     available = true
