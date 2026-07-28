@@ -177,8 +177,8 @@ theme = "minimal-black"
       href = "/projects/"
 
     [params.hero.secondary]
-      label = "Read the Blog"
-      href = "/blog/"
+      label = "About Me"
+      href = "/about/"
 
   # Icon Libraries
   [params.icons]
