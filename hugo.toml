@@ -1,4 +1,4 @@
-baseURL = 'https://minimal-black-demo.netlify.app'
+baseURL = 'https://naveensrinivas282.vercel.app'
 languageCode = 'en-us'
 title = 'Naveen Srinivas'
 theme = "minimal-black"
@@ -156,8 +156,8 @@ theme = "minimal-black"
   [params.hero]
     badge = "Software Engineer"
     title = "Hi, I'm Naveen"
-    role = "Backend and SRE Engineer"
-    summary = "You can write your summary to be displayed here."
+    role = "Software Developer"
+    summary = "Backend engineer focused on scalable systems, APIs, and production deployments, with over 2 years of hands-on experience"
     avatar = "images/Naveen.png"  # Optional: 400x400px recommended
     location = "India"
     focus = "Currently focused on Backend Development"

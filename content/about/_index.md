@@ -25,3 +25,33 @@ I contributed to a production-grade telecom core platform through the Linux Foun
 I was a member of amFOSS, where I learned web development, backend engineering, and DevOps practices
 
 ---
+
+## Certifications & Achievements
+
+**LFX Mentorship — Graduate**
+![LFX Graduation](/images/LFX%20graduation.jpg)
+Completed the Linux Foundation mentorship program, contributing to the Magma open-source LTE/5G core project.
+
+---
+
+**Nitrostack MCP Hackathon — Winner**
+![NitroStack MCP](/images/NitroStackMCP.jpg)
+Won the Nitrostack MCP Hackathon, building a solution centered on Model Context Protocol integration.
+
+---
+
+**ICSRF Hackathon — Winner**
+![ICSRF](/images/ICSRF.jpg)
+Won the ICSRF Hackathon for BinIt, an AI-powered waste management platform.
+
+---
+
+**Wikimedia Kochi Hackathon — Selected Participant**
+![Wikimedia Kochi](/images/Wikimedia_Kochi.jpg)
+Selected to collaborate on Wikimedia open-source projects at the Wikimedia Kochi Hackathon.
+
+---
+
+**Oracle SQL — Course Certificate**
+![Oracle SQL](/images/Oracle_SQL.jpg)
+Completed Oracle's SQL certification course covering relational database fundamentals and query design.
